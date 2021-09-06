@@ -1,0 +1,26 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+}
+
+body{
+    background-color: #22223b;
+    color: #f2e9e4;
+}
+
+.darkBackground{
+    background-color: #22223b;
+}
+
+.lightBackground{
+    background-color: #4a4e69;
+}
+
+.btn1:hover{
+    background-color: #4a4e69;
+    border: 1px solid #22223b;
+    color: #22223b !important;
+    font-weight: bold;
+    font-size: large;
+}
